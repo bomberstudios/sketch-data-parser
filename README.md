@@ -25,6 +25,7 @@ In a second time you need to create a JSON with your data :
 [
  { "name" : "Doris Chapman", "age" : 32, "diet" : "vegan" },
  { "name" : "Hudson Anderson", "age" : 23, "diet" : "low carb" },
+ ...
 ]
 ````
 And now you just have to run the plugin, paste the JSON in the prompt and Sketch will automatically duplicate the group for you and populate the new data inside.
