@@ -16,6 +16,7 @@ First, you need to create a group (which will be the model group) with the curre
 $[name of your data]
 ````
 Example : 
+
 ![Model group](https://dl.dropboxusercontent.com/u/4822469/groupe-example.png)
 ##### Warning : the current version of the plugin doesn't include sub-folder, so you have to keep your editable layers at the first level of your model group
 
