@@ -4,9 +4,8 @@ Sketch Data Parser plugin by Florian Peninon
 ### Installation
 Download the sketch-data-parser.sketchplugin and copy all the files to the Sketch plugins directory at:
 + In Finder, use Go > Go To Folder and paste the following into the box.
-(app store)
-+ ~/Library/Containers/com.bohemiancoding.sketch/Data/Library/Application Support/sketch/Plugins (beta)
-+ ~/Library/Application Support/sketch/Plugins
++ (app store) ~/Library/Containers/com.bohemiancoding.sketch/Data/Library/Application Support/sketch/Plugins
++ (beta) ~/Library/Application Support/sketch/Plugins
 
 ### How it works?
 The plugin use a JSON to populate a list of predefined layers, here is an example :
